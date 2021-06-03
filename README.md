@@ -28,4 +28,4 @@ This project aims at developing an interface and a pipeline to enable and facili
 > -The project can be further developed into a mobile or web application which will increase accessibility and mobility, resulting in a broader spectrum of users.
 
 
-**For complete project report you may visit [https://drive.google.com/file/d/19FZaqPcMXYSDKQeJIvwGwo36cGfOsrjx/view](https://drive.google.com/file/d/19FZaqPcMXYSDKQeJIvwGwo36cGfOsrjx/view)**
+**For complete project report you may visit [here](https://drive.google.com/file/d/19FZaqPcMXYSDKQeJIvwGwo36cGfOsrjx/view)**
